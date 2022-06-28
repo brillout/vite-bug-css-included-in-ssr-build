@@ -1,0 +1,79 @@
+{
+  "renderer/_default.page.client.jsx": {
+    "file": "assets/renderer/_default.page.client.85850453.js",
+    "src": "renderer/_default.page.client.jsx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-b0c1fee3.js"
+    ],
+    "css": [
+      "assets/PageLayout.dad88554.css"
+    ]
+  },
+  "pages/about/index.page.jsx": {
+    "file": "assets/pages/about/index.page.edd0cf6d.js",
+    "src": "pages/about/index.page.jsx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-b0c1fee3.js"
+    ],
+    "css": [
+      "assets/index.page.20d454e1.css"
+    ]
+  },
+  "pages/index/index.page.jsx": {
+    "file": "assets/pages/index/index.page.ed0db00a.js",
+    "src": "pages/index/index.page.jsx",
+    "isEntry": true,
+    "isDynamicEntry": true,
+    "imports": [
+      "_chunk-b0c1fee3.js"
+    ]
+  },
+  "node_modules/.pnpm/vite-plugin-ssr@0.4.0-beta.42_vite@3.0.0-beta.5/node_modules/vite-plugin-ssr/dist/esm/client/router/entry.js": {
+    "file": "assets/entry-client-routing.82ca4710.js",
+    "src": "node_modules/.pnpm/vite-plugin-ssr@0.4.0-beta.42_vite@3.0.0-beta.5/node_modules/vite-plugin-ssr/dist/esm/client/router/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_chunk-0403354a.js"
+    ]
+  },
+  "node_modules/.pnpm/vite-plugin-ssr@0.4.0-beta.42_vite@3.0.0-beta.5/node_modules/vite-plugin-ssr/dist/esm/client/entry.js": {
+    "file": "assets/entry-server-routing.f1d509a0.js",
+    "src": "node_modules/.pnpm/vite-plugin-ssr@0.4.0-beta.42_vite@3.0.0-beta.5/node_modules/vite-plugin-ssr/dist/esm/client/entry.js",
+    "isEntry": true,
+    "imports": [
+      "_chunk-0403354a.js"
+    ]
+  },
+  "_chunk-b0c1fee3.js": {
+    "file": "assets/chunk-b0c1fee3.js"
+  },
+  "_chunk-0403354a.js": {
+    "file": "assets/chunk-0403354a.js",
+    "dynamicImports": [
+      "pages/about/index.page.jsx",
+      "pages/index/index.page.jsx",
+      "renderer/_default.page.client.jsx",
+      "renderer/_default.page.server.jsx?extractStyles&lang.jsx"
+    ]
+  },
+  "renderer/_default.page.server.jsx?extractStyles&lang.jsx": {
+    "file": "assets/chunk-b5c2aafb.js",
+    "src": "renderer/_default.page.server.jsx?extractStyles&lang.jsx",
+    "isDynamicEntry": true,
+    "css": [
+      "assets/PageLayout.dad88554.css"
+    ]
+  },
+  "PageLayout.css": {
+    "file": "assets/PageLayout.dad88554.css",
+    "src": "PageLayout.css"
+  },
+  "pages/about/index.page.css": {
+    "file": "assets/index.page.20d454e1.css",
+    "src": "pages/about/index.page.css"
+  }
+}
