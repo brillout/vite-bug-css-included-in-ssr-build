@@ -1,1 +1,0 @@
-import{a as e,b as a,F as n,j as r}from"../../chunk-b0c1fee3.js";e.__esModule?e.default:e;function t(){return a(n,{children:[r("h1",{children:"About"}),r("p",{children:"A colored page."})]})}export{t as Page};

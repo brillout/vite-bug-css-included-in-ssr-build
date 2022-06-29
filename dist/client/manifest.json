@@ -1,58 +1,58 @@
 {
   "renderer/_default.page.client.jsx": {
-    "file": "assets/renderer/_default.page.client.85850453.js",
+    "file": "assets/renderer/_default.page.client.0dde2664.js",
     "src": "renderer/_default.page.client.jsx",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_chunk-b0c1fee3.js"
+      "_chunk-8d3043f6.js"
     ],
     "css": [
       "assets/PageLayout.dad88554.css"
     ]
   },
   "pages/about/index.page.jsx": {
-    "file": "assets/pages/about/index.page.edd0cf6d.js",
+    "file": "assets/pages/about/index.page.0679f71d.js",
     "src": "pages/about/index.page.jsx",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_chunk-b0c1fee3.js"
+      "_chunk-8d3043f6.js"
     ],
     "css": [
       "assets/index.page.20d454e1.css"
     ]
   },
   "pages/index/index.page.jsx": {
-    "file": "assets/pages/index/index.page.ed0db00a.js",
+    "file": "assets/pages/index/index.page.6a25cc78.js",
     "src": "pages/index/index.page.jsx",
     "isEntry": true,
     "isDynamicEntry": true,
     "imports": [
-      "_chunk-b0c1fee3.js"
+      "_chunk-8d3043f6.js"
     ]
   },
   "node_modules/.pnpm/vite-plugin-ssr@0.4.0-beta.42_vite@3.0.0-beta.5/node_modules/vite-plugin-ssr/dist/esm/client/router/entry.js": {
-    "file": "assets/entry-client-routing.82ca4710.js",
+    "file": "assets/entry-client-routing.c0078a2a.js",
     "src": "node_modules/.pnpm/vite-plugin-ssr@0.4.0-beta.42_vite@3.0.0-beta.5/node_modules/vite-plugin-ssr/dist/esm/client/router/entry.js",
     "isEntry": true,
     "imports": [
-      "_chunk-0403354a.js"
+      "_chunk-3dcdb2f1.js"
     ]
   },
   "node_modules/.pnpm/vite-plugin-ssr@0.4.0-beta.42_vite@3.0.0-beta.5/node_modules/vite-plugin-ssr/dist/esm/client/entry.js": {
-    "file": "assets/entry-server-routing.f1d509a0.js",
+    "file": "assets/entry-server-routing.6554cec0.js",
     "src": "node_modules/.pnpm/vite-plugin-ssr@0.4.0-beta.42_vite@3.0.0-beta.5/node_modules/vite-plugin-ssr/dist/esm/client/entry.js",
     "isEntry": true,
     "imports": [
-      "_chunk-0403354a.js"
+      "_chunk-3dcdb2f1.js"
     ]
   },
-  "_chunk-b0c1fee3.js": {
-    "file": "assets/chunk-b0c1fee3.js"
+  "_chunk-8d3043f6.js": {
+    "file": "assets/chunk-8d3043f6.js"
   },
-  "_chunk-0403354a.js": {
-    "file": "assets/chunk-0403354a.js",
+  "_chunk-3dcdb2f1.js": {
+    "file": "assets/chunk-3dcdb2f1.js",
     "dynamicImports": [
       "pages/about/index.page.jsx",
       "pages/index/index.page.jsx",

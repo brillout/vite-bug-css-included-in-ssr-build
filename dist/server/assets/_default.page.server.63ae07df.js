@@ -1,7 +1,8 @@
 import React from "react";
 import { renderToStream } from "react-streaming/server";
 import { escapeInject } from "vite-plugin-ssr";
-import { a as jsx, j as jsxs } from "./chunk-20fcc0cc.js";
+import { a as jsx, j as jsxs } from "./chunk-2839ff2c.js";
+import "react/jsx-runtime";
 const PageLayout$1 = /* @__PURE__ */ (() => "/* This CSS is common to all pages */\n\nbody {\n  margin: 0;\n  font-family: sans-serif;\n}\n* {\n  box-sizing: border-box;\n}\na {\n  text-decoration: none;\n}\n\n.navitem {\n  padding: 3px;\n}\n")();
 function PageLayout({
   children

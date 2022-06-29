@@ -10,8 +10,8 @@ const pageFilesExportNamesEager = {};
 const neverLoaded = {};
 const isGeneratedFile = true;
 const pageFilesLazyIsomorph1 = {
-  "/pages/about/index.page.jsx": () => import("./assets/about.page.c5f4b403.js"),
-  "/pages/index/index.page.jsx": () => import("./assets/index.page.7870f617.js")
+  "/pages/about/index.page.jsx": () => import("./assets/about.page.a6da7c65.js"),
+  "/pages/index/index.page.jsx": () => import("./assets/index.page.da209c7e.js")
 };
 const pageFilesLazyIsomorph = { ...pageFilesLazyIsomorph1 };
 pageFilesLazy[".page"] = pageFilesLazyIsomorph;
@@ -19,7 +19,7 @@ const pageFilesEagerRoute1 = {};
 const pageFilesEagerRoute = { ...pageFilesEagerRoute1 };
 pageFilesEager[".page.route"] = pageFilesEagerRoute;
 const pageFilesLazyServer1 = {
-  "/renderer/_default.page.server.jsx": () => import("./assets/_default.page.server.f4a92c52.js")
+  "/renderer/_default.page.server.jsx": () => import("./assets/_default.page.server.63ae07df.js")
 };
 const pageFilesLazyServer = { ...pageFilesLazyServer1 };
 pageFilesLazy[".page.server"] = pageFilesLazyServer;
